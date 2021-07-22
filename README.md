@@ -6,6 +6,5 @@ This Repository looks at trying to predict theoutcomes of Major League Baseball 
 ## Next Steps
 
 * Use fangraphs API instead of web scraping to get more stats more easily
-* Incorporate actual lineups/rosters instead of projected lineups/rosters
 * Use more advanced stats and apply machine learning algorithms with train/test splits to better project future performance
 * Test against betting lines and other projection websites to see if this projection system performs adequately
